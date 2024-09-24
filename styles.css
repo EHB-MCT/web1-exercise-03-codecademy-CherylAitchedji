@@ -1,0 +1,31 @@
+body {
+  background-color: #e9eaea;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 50px;
+}
+
+h1 {
+  color: #6d6f7e;
+}
+
+p {
+  color: #6d6f7e;
+  margin-bottom: 30px;
+}
+
+.red {
+  color: #f85a58;
+}
+
+a {
+  background: #f85a58;
+  color: #e9eaea;
+  padding: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  background-color: #333;
+}
